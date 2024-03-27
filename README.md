@@ -1,6 +1,9 @@
-Архив заданий с курса Методы анализа больших данных - ВШЭ, весна 2024.
+Коллекция работ с курса Методы анализа больших данных - ВШЭ, весна 2024.
 
-Работа с Pandas, NLP-библиотеками. Фокус на бизнес-аспект Data Science.
+### [Обработка данных, кластеризация KMeans, RFM-анализ](clusterization/EDA_KMeans_RFM_analysis.ipynb)  
+Обработка данных, кластеризация KMeans, RFM-анализ  
+Библиотеки: pandas, sklearn, matplotlib
 
-Работы:
-1. [Обработка данных, кластеризация KMeans, RFM-анализ](clusterization/EDA_KMeans_RFM_analysis.ipynb)
+### [Текстовый анализ песен](NLP/NLP_songs.ipynb)  
+Работа с текстовыми данными: токенизация, лемматизация, удаление стоп слов. Применение TF-IDF, word2vec.  
+Библиотеки: sklearn, pymorphy2, nltk, gensim.
